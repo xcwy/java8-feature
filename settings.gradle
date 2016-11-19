@@ -17,3 +17,5 @@ include 'services:webservice'
 */
 
 rootProject.name = 'java8-feature'
+include 'lambda'
+
