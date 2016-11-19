@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8-feature.iml" filepath="$PROJECT_DIR$/.idea/modules/java8-feature.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lamdba/lamdba.iml" filepath="$PROJECT_DIR$/.idea/modules/lamdba/lamdba.iml" group="lamdba" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lamdba/lamdba_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lamdba/lamdba_main.iml" group="lamdba" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lamdba/lamdba_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lamdba/lamdba_test.iml" group="lamdba" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1917763871/java8-feature.iml" filepath="$PROJECT_DIR$/.idea/modules/-1917763871/java8-feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lambda.iml" filepath="$PROJECT_DIR$/.idea/modules/lambda.iml" group="lambda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lambda_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lambda_main.iml" group="lambda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lambda_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lambda_test.iml" group="lambda" />
     </modules>
   </component>
 </project>
